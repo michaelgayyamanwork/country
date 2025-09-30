@@ -348,7 +348,7 @@
   ]]
 }
 },
-{ "type": "Feature", "id": "TCA", "properties": { "name": "Turks and Caicos Islands" }, "geometry": {
+{ "type": "Feature", "id": "TCA", "properties": { "name": "Turks and Caicos Inslands" }, "geometry": {
   "type": "Polygon", "coordinates": [[
     [
       -72.130737,
